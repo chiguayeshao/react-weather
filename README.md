@@ -10,5 +10,6 @@
 - 运行项目
   - npm start
 
+- 项目在线预览地址 [React App (fuck-weather.herokuapp.com)](https://fuck-weather.herokuapp.com/)
 - 项目效果展示![image-20220719002324371](https://cdn.jsdelivr.net/gh/chiguayeshao/pic-bed/image-20220719002324371.png)
 
